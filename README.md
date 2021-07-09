@@ -1,13 +1,21 @@
-# Personal assistant app featuring how to
-Add data to text files
-Read JSON files
-Convert dictionary data to JSON
-Insert line breaks
+# Personal assistant app that creates and stores to-do lists, personal contacts, and important birthdays.  Code editor used is Replit.
 
-Python skills I am learning:
-Web apps
-Web development
-Templating
-SQL databases
-Data analysis
-File processing
+Computational thinking principles:
+1.  decomposition
+2.  pattern recognition
+3.  abstraction
+4.  algorithm writing
+
+Python skills:
+control structures
+functions
+loops
+
+Modules used:
+json
+csv
+random
+turtle
+datetime
+
+
