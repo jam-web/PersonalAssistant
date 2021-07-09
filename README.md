@@ -9,8 +9,13 @@ Computational thinking principles:
 4.  algorithm writing
 
 Python skills:
-control structures
+object-oriented programming
+data types
+variables
 functions
+classes
+objects
+control structures
 loops
 
 Modules used:
